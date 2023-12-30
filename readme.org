@@ -1,0 +1,10 @@
+* laml
+
+#+BEGIN_QUOTE
+Lisp as a markup language
+#+END_QUOTE
+
+- YAML is ubiquitous everywhere, a significant part of a lot of jobs consists of editing YAML, etc.
+- That's not nice, it's prone to indentation and whitespace typos, not ideal for structural editing, etc.
+- I'd rather use (lisp's (syntax)) for YAML-y tasks.
+- The goal is to have a small single-binary program that transpiles =.laml= into =.yaml=
