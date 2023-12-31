@@ -1,0 +1,11 @@
+(course
+ (course name))
+(client
+ (client name))
+(dependencies
+ (dep1 dep2 dep3))
+(material
+ ((Content
+   (content1 content2))
+  (Hackathons
+   (hackathon1 hackathon2 hackathon3))))
