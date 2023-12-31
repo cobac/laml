@@ -1,4 +1,4 @@
-// I don't htink I like this data structures
+// I don't think I like these data structures
 
 struct Atom(String);
 
@@ -17,7 +17,7 @@ struct Laml {
 }
 
 pub fn laml2yaml(laml: &str) -> String {
-    // parse laml into datastructure
+    // parse laml into datastructures
     // convert to yaml
     todo!()
 }
